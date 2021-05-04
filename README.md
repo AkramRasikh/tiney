@@ -1,5 +1,6 @@
 ## Run the app!
 
+- npm install
 - npm start
 - env variables needed to run app REACT_APP_PROVIDERS_API REACT_APP_CHILDREN_API (providers/children)
 
